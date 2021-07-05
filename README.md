@@ -30,7 +30,7 @@ project_code = project.code()
 print(project_code)
 ```
 
-####### Example code
+###### Example code
 ```python
 import ideoneapi
 
