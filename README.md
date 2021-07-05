@@ -3,7 +3,7 @@ This Python package allows getting information about projects on Ideone
 
 # Installing
 ```shell
-pip install git+https://github.com/TheRealZFinch/Ideone-API.git#egg=httpie
+pip install git+https://github.com/TheRealZFinch/Ideone-API.git#egg=ideoneapi
 ```
 
 # Importing
