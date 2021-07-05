@@ -1,0 +1,1 @@
+from ideoneapi.main import ideone
