@@ -16,5 +16,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],                                      
     python_requires='>=3.8',                 
-    install_requires=["bs4","beautifulsoup4","soupsieve"]                    
+    install_requires=["bs4","beautifulsoup4","soupsieve","requests"]                    
 )
